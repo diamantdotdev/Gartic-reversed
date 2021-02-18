@@ -21,7 +21,7 @@ Chrome Webstore: [Soon]
 ### Install this extension without using the chrome webstore:
 
 1. Download the `extension.zip` file.
-2. Extract it to a blank foler.
+2. Extract it to a blank folder.
 3. On chrome, go to the url: `chrome://extensions/`.
 4. At the top right of the page, activate the `developper mode`.
 5. click on `Load unpacked extension` and select the folder who contains the files of the extension.
