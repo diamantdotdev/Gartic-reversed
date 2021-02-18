@@ -1,0 +1,13 @@
+{
+  "name": "Gartic reversed",
+  "version": "1.0",
+  "description": "The unofficial reversed GameMode of Gartic Phone",
+  "manifest_version": 2,
+  "permissions": ["https://garticphone.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://garticphone.com/*"],
+      "js": ["app.js"]
+    }
+  ]
+}
