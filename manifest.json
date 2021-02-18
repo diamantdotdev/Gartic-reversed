@@ -3,6 +3,12 @@
   "version": "1.0",
   "description": "The unofficial reversed GameMode of Gartic Phone",
   "manifest_version": 2,
+  "author": "DiamantDev",
+  "icons": {
+    "16": "./img/favicon-16x16.png",
+    "32": "./img/favicon-32x32.png",
+    "512": "./img/logo.png"
+  },
   "permissions": ["https://garticphone.com/*"],
   "content_scripts": [
     {
